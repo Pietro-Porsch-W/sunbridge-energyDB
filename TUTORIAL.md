@@ -36,7 +36,7 @@
 3. Execute o projeto a partir do [SunBridgeJavaApplication](https://github.com/Pietro-Porsch-W/sunbridge-energyDB/blob/fcfab2eb26137cd89aff64fe8b76380540928395/SunBridgeJava/SunBridgeJava-0.0.1-SNAPSHOT.jar), pronto, caso queira desativar ou ativar os Scripts SQL no terminal, acesse o .properties e comente com "#" todas linhas abaixo do titulo **"DEBUG"**.
 
 ### Para utilizar o Executavel 
-1. Abra o [SunBridgeJava/Executa_java.bat]([https://github.com/thums1710/sunbridge-energyDB/blob/8edc6842a223478e7d53a42089e31494461e46fb/SunBridgeJava/Executa_java.bat](https://github.com/Pietro-Porsch-W/sunbridge-energyDB/blob/fcfab2eb26137cd89aff64fe8b76380540928395/SunBridgeJava/Executa_java.bat)).
+1. Abra o [SunBridgeJava/Executa_java.bat](https://github.com/Pietro-Porsch-W/sunbridge-energyDB/blob/fcfab2eb26137cd89aff64fe8b76380540928395/SunBridgeJava/Executa_java.bat).
 2. Vai abrir um CMD com o log da aplicação.
 3. Pronto, funcionando.
 4. Para fechar clique CTRL + C, escreva S e clique enter.
