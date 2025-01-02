@@ -1,0 +1,9 @@
+com.example.sunbridgejava
+com.example.sunbridgejava.controller
+com.example.sunbridgejava.dao
+com.example.sunbridgejava.DTO
+com.example.sunbridgejava.ExceptionHandler
+com.example.sunbridgejava.model
+com.example.sunbridgejava.repository
+com.example.sunbridgejava.service
+com.example.sunbridgejava.util

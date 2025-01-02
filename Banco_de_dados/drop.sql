@@ -1,0 +1,14 @@
+DROP TABLE IF EXISTS cliente_logistica;
+DROP TABLE IF EXISTS item_venda;
+DROP TABLE IF EXISTS pedido_venda;
+DROP TABLE IF EXISTS pagamento;
+DROP TABLE IF EXISTS cliente;
+DROP TABLE IF EXISTS pedido_fornecedor;
+DROP TABLE IF EXISTS pedido_compra;
+DROP TABLE IF EXISTS pagamento_fornecedor;
+DROP TABLE IF EXISTS fornecedor;
+DROP TABLE IF EXISTS usuario;
+DROP TABLE IF EXISTS empresa; 
+DROP TABLE IF EXISTS item;
+DROP TABLE IF EXISTS estoque;
+DROP TABLE IF EXISTS auditoria;
