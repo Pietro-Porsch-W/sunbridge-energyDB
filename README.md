@@ -29,13 +29,13 @@ E será continuado para as matérias: Banco de Dados II, Engenharia de SoftWare 
 
 ### Tutoriais:
 
-* Arquivo tutorial presente na pasta principal do arquivo, [Tutorial.md](https://github.com/thums1710/sunbridge-energyDB/blob/f184b121fad9697c04b4b6b4ee9c14b2936139f3/TUTORIAL.md).
-* Pasta para ajuda e exemplos da API, [API_HELPER.md](https://github.com/thums1710/sunbridge-energyDB/tree/f184b121fad9697c04b4b6b4ee9c14b2936139f3/API%20HELPER).
+* Arquivo tutorial presente na pasta principal do arquivo, [Tutorial.md](https://github.com/Pietro-Porsch-W/sunbridge-energyDB/blob/f184b121fad9697c04b4b6b4ee9c14b2936139f3/TUTORIAL.md).
+* Pasta para ajuda e exemplos da API, [API_HELPER.md](https://github.com/Pietro-Porsch-W/sunbridge-energyDB/tree/f184b121fad9697c04b4b6b4ee9c14b2936139f3/API%20HELPER).
 
 ### Arquivos para cada Matéria
 
-* [**Entrega de Banco de Dados II**](https://github.com/thums1710/sunbridge-energyDB/tree/e7c5b70aafff63500b66f8d31df99a647e4f327f/Banco_de_dados).
+* [**Entrega de Banco de Dados II**](https://github.com/Pietro-Porsch-W/sunbridge-energyDB/tree/e7c5b70aafff63500b66f8d31df99a647e4f327f/Banco_de_dados).
   
-* **Entrega de Programação II**: [BackEnd](https://github.com/thums1710/sunbridge-energyDB/tree/e7c5b70aafff63500b66f8d31df99a647e4f327f/SunBridgeJava) - [FrontEnd](https://github.com/thums1710/sunbridge-energyDB/tree/e7c5b70aafff63500b66f8d31df99a647e4f327f/front).
+* **Entrega de Programação II**: [BackEnd](https://github.com/Pietro-Porsch-W/sunbridge-energyDB/tree/e7c5b70aafff63500b66f8d31df99a647e4f327f/SunBridgeJava) - [FrontEnd](https://github.com/Pietro-Porsch-W/sunbridge-energyDB/tree/e7c5b70aafff63500b66f8d31df99a647e4f327f/front).
   
-* [**Entrega de Engenharia de Software**](https://github.com/thums1710/sunbridge-energyDB/tree/e7c5b70aafff63500b66f8d31df99a647e4f327f/Engenharia%20de%20software).
+* [**Entrega de Engenharia de Software**](https://github.com/Pietro-Porsch-W/sunbridge-energyDB/tree/e7c5b70aafff63500b66f8d31df99a647e4f327f/Engenharia%20de%20software).
