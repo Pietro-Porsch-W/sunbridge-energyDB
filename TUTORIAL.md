@@ -27,7 +27,7 @@
 ## Configuração do BackEnd (Java)
 
 > É necessário ter uma IDE instalada e configurada para o Java.
-> > Existem duas formas, a direta e pelo executavel (***Ainda não implementado***), vou listar ambas.
+> > Existem duas formas, a direta e pelo executavel, vou listar ambas.
 
 ### De forma direta
 
