@@ -7,15 +7,16 @@ Universidade do Oeste de Santa Catarina)*.
 
 E será continuado para as matérias: Banco de Dados II, Engenharia de SoftWare e Programação II, ambas primeiras ministradas pelo professor *Roberson Junior Fernandes Alves*, enquanto que a última é ministrada por *Otilia Barbosa*.
 
+> O projeto original é Privado, caso venha a se tornar público, se encotra [aqui](https://github.com/thums1710/sunbridge-energyDB)
 ---
 
 ### Alunos Envolvidos: 
-- Leonardo Mateus Bortoluzzi Thums
-- Luiz Felipe Christani
-- Pietro Porsch Wilhelms
-- Rafael Luan Schmitz
-- Rodrigo Miguel Teles Dos Santos
-- Samuel Fernando Bortoluzzi Thums
+- [Leonardo Mateus Bortoluzzi Thums](https://github.com/thums1710)
+- [Luiz Felipe Christani](https://github.com/LuizChristani)
+- [Pietro Porsch Wilhelms]()
+- [Rafael Luan Schmitz](https://github.com/rafaelwls)
+- [Rodrigo Miguel Teles Dos Santos](https://github.com/rodrigoskv)
+- [Samuel Fernando Bortoluzzi Thums](https://github.com/SamuelThums)
 
 ---
 
