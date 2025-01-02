@@ -15,10 +15,10 @@
 
 > É necessário ter uma conexão valida com um usuario com todas as permissões dentro do Banco para essa configuração, tal como a porta 5432.
 
-1. Com o DBeaver aberto, abra a pasta ***"Banco_de_Dados"***, [Link no GitHub](https://github.com/thums1710/sunbridge-energyDB/tree/a681b6f94af31ae081fb6bc53ec062e7020122f3/Banco_de_dados).
-2. Caso queira, crie um banco de dados manualmente com o nome de ***sunbridge*** caso contrario, descomente e rode apenas a ***primeira linha*** do arquivo "Criar_usuario_java", [Link no GitHub](https://github.com/thums1710/sunbridge-energyDB/blob/a681b6f94af31ae081fb6bc53ec062e7020122f3/Banco_de_dados/Criar_Usuario_Java.sql).
+1. Com o DBeaver aberto, abra a pasta ***"Banco_de_Dados"***, [Link no GitHub](https://github.com/Pietro-Porsch-W/sunbridge-energyDB/tree/fcfab2eb26137cd89aff64fe8b76380540928395/Banco_de_dados).
+2. Caso queira, crie um banco de dados manualmente com o nome de ***sunbridge*** caso contrario, descomente e rode apenas a ***primeira linha*** do arquivo "Criar_usuario_java", [Link no GitHub](https://github.com/Pietro-Porsch-W/sunbridge-energyDB/blob/fcfab2eb26137cd89aff64fe8b76380540928395/Banco_de_dados/Criar_Usuario_Java.sql).
 3. Execute o resto do arquivo mencionado acima dentro do banco ***sunbridge*** (tal como todo o resto dos arquivos), para criar o grupo de permissões e usuário utilizado no Java, e dar o grupo para o mesmo.
-4. Abra o arquivo ***"Criar_Banco"***, [link no GitHub](https://github.com/thums1710/sunbridge-energyDB/blob/a681b6f94af31ae081fb6bc53ec062e7020122f3/Banco_de_dados/Criar_banco.sql).
+4. Abra o arquivo ***"Criar_Banco"***, [link no GitHub](https://github.com/Pietro-Porsch-W/sunbridge-energyDB/blob/fcfab2eb26137cd89aff64fe8b76380540928395/Banco_de_dados/Criar_banco.sql).
 5. Execute ele completo, ele vai criar as tabelas, sequencias, revisar as sequencias para o usuario Java, criar a Auditoria e dar um insert inicial nos dados para testar todo o banco.
 6. Pronto, a configuração SQL está pronta.
 
@@ -33,17 +33,17 @@
 
 1. Abra sua IDE de preferencia, importe o projeto ou abra-o.
 2. Abra o POM.XML e instale todas as dependencias.
-3. Execute o projeto a partir do [SunBridgeJavaApplication](https://github.com/thums1710/sunbridge-energyDB/blob/e711850402adff9b9f5f9f607dad692eb76fdf89/SunBridgeJava/src/main/java/com/example/sunbridgejava/SunBridgeJavaApplication.java), pronto, caso queira desativar ou ativar os Scripts SQL no terminal, acesse o .properties e comente com "#" todas linhas abaixo do titulo **"DEBUG"**.
+3. Execute o projeto a partir do [SunBridgeJavaApplication](https://github.com/Pietro-Porsch-W/sunbridge-energyDB/blob/fcfab2eb26137cd89aff64fe8b76380540928395/SunBridgeJava/SunBridgeJava-0.0.1-SNAPSHOT.jar), pronto, caso queira desativar ou ativar os Scripts SQL no terminal, acesse o .properties e comente com "#" todas linhas abaixo do titulo **"DEBUG"**.
 
 ### Para utilizar o Executavel 
-1. Abra o [SunBridgeJava/Executa_java.bat](https://github.com/thums1710/sunbridge-energyDB/blob/8edc6842a223478e7d53a42089e31494461e46fb/SunBridgeJava/Executa_java.bat).
-2. Vai abrir um CMD com o log dá aplicação.
+1. Abra o [SunBridgeJava/Executa_java.bat]([https://github.com/thums1710/sunbridge-energyDB/blob/8edc6842a223478e7d53a42089e31494461e46fb/SunBridgeJava/Executa_java.bat](https://github.com/Pietro-Porsch-W/sunbridge-energyDB/blob/fcfab2eb26137cd89aff64fe8b76380540928395/SunBridgeJava/Executa_java.bat)).
+2. Vai abrir um CMD com o log da aplicação.
 3. Pronto, funcionando.
 4. Para fechar clique CTRL + C, escreva S e clique enter.
 
-> Para acessar o JavaDoc entre na pasta ***"SunBridgeJava/JavaDoc"***, ou pelo [GitHub](https://github.com/thums1710/sunbridge-energyDB/tree/5bb2c5d687667bb73992496be210daaf826bddcc/SunBridgeJava/javadoc).
+> Para acessar o JavaDoc entre na pasta ***"SunBridgeJava/JavaDoc"***, ou pelo [GitHub]().
 > 
-> Abra o [INDEX.HTML](https://github.com/thums1710/sunbridge-energyDB/blob/5bb2c5d687667bb73992496be210daaf826bddcc/SunBridgeJava/javadoc/index.html).
+> Abra o [INDEX.HTML](https://github.com/Pietro-Porsch-W/sunbridge-energyDB/blob/fcfab2eb26137cd89aff64fe8b76380540928395/SunBridgeJava/javadoc/index.html).
 
 ---
 
@@ -70,7 +70,7 @@ run npm dev
 
 ### Método Direto
 
-1. Execute o arquivo ***"front/Executa_front.bat"***, [link no GitHub](). 
+1. Execute o arquivo ***"front/Executa_front.bat"***, [link no GitHub](https://github.com/Pietro-Porsch-W/sunbridge-energyDB/blob/fcfab2eb26137cd89aff64fe8b76380540928395/front/Executa_front.bat). 
 2. Segure Ctrl e clique no Link que aparecer no CMD.
 3. Para fechar clique CTRL + C, escreva S e clique enter.
 
@@ -82,6 +82,6 @@ run npm dev
 > A senha ***NUNCA*** vai vir por requisição na API.
 
 * Pode acessar a pasta ***API_HELPER*** para todos os links e testes prontos para utilizar todas as APIs existentes e funcionais dentro do sistema BackEnd.
-> [Link da pasta API_HELPER no GitHub](https://github.com/thums1710/sunbridge-energyDB/tree/a681b6f94af31ae081fb6bc53ec062e7020122f3/API%20HELPER).
+> [Link da pasta API_HELPER no GitHub](https://github.com/Pietro-Porsch-W/sunbridge-energyDB/tree/fcfab2eb26137cd89aff64fe8b76380540928395/API%20HELPER).
 
  
